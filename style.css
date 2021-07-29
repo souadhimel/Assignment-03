@@ -3,7 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+body {
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+}
 .nav-link {
   color: white;
 }
